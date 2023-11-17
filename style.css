@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+
+table, tr, th, td, caption{
+    border: 2px solid #fff;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
